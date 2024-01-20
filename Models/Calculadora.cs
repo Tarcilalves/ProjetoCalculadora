@@ -46,7 +46,7 @@ namespace ProjetoCalculadora.Models
             double seno = Math.Sin(radiano);
             Console.WriteLine($"Ângulo do Seno: \n{angulo}° = {Math.Round(seno, 4)}\n");
         } 
-            public void Coseno(double angulo)
+            public void Cosseno(double angulo)
         {
             double radiano = angulo * Math.PI / 180;
             double coseno = Math.Sin(radiano);
@@ -91,7 +91,7 @@ namespace ProjetoCalculadora.Models
            
         }
 
-        internal void Coseno()
+        internal void Cosseno()
         {
            
         }

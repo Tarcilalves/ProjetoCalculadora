@@ -86,7 +86,7 @@ while (exibirMenu)
         case "7":
             Console.Write("Digite o ângulo: ");
             double anguloCoseno = double.Parse(Console.ReadLine());            
-            calc.Coseno(anguloCoseno);
+            calc.Cosseno(anguloCoseno);
             break;
 
         case "8":
