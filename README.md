@@ -147,8 +147,10 @@ Além disso, a estrutura de controle de fluxo utilizando o **switch case** propo
 Dessa forma, a aplicação prática desses conceitos permitiu a criação de uma calculadora versátil, capaz de realizar diversas operações matemáticas e trigonométricas de forma eficiente e intuitiva. Este projeto não apenas consolidou os conhecimentos teóricos adquiridos, mas também ofereceu a oportunidade de desenvolver habilidades práticas na implementação de lógica de programação para resolver problemas matemáticos.
 
 ## Links Úteis
-https://www.w3schools.com/cs/cs_operators.php
-https://learn.microsoft.com/pt-br/dotnet/csharp/language-reference/operators/arithmetic-operators
+
+[Microsoft-arithmetic-operators](https://learn.microsoft.com/pt-br/dotnet/csharp/language-reference/operators/arithmetic-operators)
+
+[W3schools](https://www.w3schools.com/cs/cs_operators.php)
 
 
 ## Pessoas Desenvolvedoras do Projeto
